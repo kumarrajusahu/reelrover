@@ -1,0 +1,54 @@
+
+/*------------background image------------------------*/
+#top image img{
+    opacity: 0.4;
+}
+
+
+
+
+ /*    navigationbar  */
+.navbar a{
+    
+        font-family: "Titan One", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      
+      
+}
+
+div a{
+    text-decoration: none;
+}
+
+
+div .carouselExampleInterval{
+    height:300px ;
+    width:60%;
+}
+
+#bollywood div img{
+    height: 300px;
+}
+#hollywood div img{
+    height: 300px;
+}
+#tollywood div img{
+    height: 300px;
+}
+#web-series div img{
+    height: 300px;
+}
+#TV-show div img{
+    height: 300px;
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h2{
+    font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
