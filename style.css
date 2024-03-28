@@ -52,9 +52,10 @@ div .carouselExampleInterval{
 h1{
     background-color:#7D7C7C;
     font-family: "Libre Baskerville", serif;
-  font-weight: 400;
-  font-style: normal;
-    padding-y:7px;
+    font-weight: 400;
+    font-style: normal;
+    padding-top:7px;
+       padding-bottom:7px;
 }
 h2{
     font-family: "Madimi One", sans-serif;
